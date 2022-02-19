@@ -1,16 +1,13 @@
-# elastic_search_bar
+# Elastic Search Bar
 
-A new Flutter project.
+This repository is me learning to make Elastic Search Bar in Flutter.
 
-## Getting Started
+I'm following Daria Orlova's medium article: 
 
-This project is a starting point for a Flutter application.
+https://medium.com/@daria.orlova/custom-shaped-appbar-as-seen-in-the-bunny-search-app-6312d067485c
 
-A few resources to get you started if this is your first Flutter project:
+## What I Learned
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- I Learned how to use `CustomClipper` and utilizing it to draw path that consist of `Linear` path and `QuadraticBezier` path.
+- I Learned how to use `SliverPersistentHeaderDelegate` to make a custom sliver app bar.
+- I learned how utilize `SliverPersistentHeaderDelegate` inherited value such as `shrinkOffset` to make an animated opacity text and also positioning search bar.
