@@ -11,3 +11,7 @@ https://medium.com/@daria.orlova/custom-shaped-appbar-as-seen-in-the-bunny-searc
 - I Learned how to use `CustomClipper` and utilizing it to draw path that consist of `Linear` path and `QuadraticBezier` path.
 - I Learned how to use `SliverPersistentHeaderDelegate` to make a custom sliver app bar.
 - I learned how utilize `SliverPersistentHeaderDelegate` inherited value such as `shrinkOffset` to make an animated opacity text and also positioning search bar.
+
+---
+
+![result](gif/vid.gif)
